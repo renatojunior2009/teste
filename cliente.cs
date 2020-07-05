@@ -1,4 +1,4 @@
-public Cliente 
+public class Cliente 
 {
 
 }
